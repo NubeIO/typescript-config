@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "./internal-package.json",
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "noEmit": false,
+    "lib": ["dom", "dom.iterable", "ES2022"],
+    "jsx": "preserve"
+  }
+}
