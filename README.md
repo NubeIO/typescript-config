@@ -1,6 +1,6 @@
-## NubeIO TypeScript Tooling
+## PJNube TypeScript Tooling
 
-This repository contains various tooling configurations for NubeIO internal projects.
+This repository contains various tooling configurations for PJNube internal projects.
 
 ### Configuration
 
@@ -11,7 +11,7 @@ To use the shared configuration in your project, you need to add this repository
 Run the following command in your project to add the configuration as a submodule:
 
 ```bash
-git submodule add git@github.com:NubeIO/typescript-config.git tooling/typescript
+git submodule add git@github.com:PJNube/typescript-config.git tooling/typescript
 ```
 
 #### Step 2: Initialize All Submodules
